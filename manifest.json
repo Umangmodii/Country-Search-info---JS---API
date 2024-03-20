@@ -1,0 +1,27 @@
+{
+    "name": "Country info",
+    "short_name": "Country info",
+    "description": "Search and view images using the country Search App.",
+    "icons": [
+        {
+          "src": "image/logo.png",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
+        },
+        {
+          "src": "image/logo.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "image/logo.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+  }
+  
