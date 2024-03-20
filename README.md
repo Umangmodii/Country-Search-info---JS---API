@@ -1,5 +1,5 @@
 
-<B> Country Info App | PWA | Restcountries API | JS | Bootstrap | Postman | JSONCountry Info App | PWA | Restcountries API | JS | Bootstrap | Postman | JSON </B>
+<B> <h2> Country Info App | PWA | Restcountries API | JS | Bootstrap | Postman | JSON </h2> </B>
 <p> Mar 2024 - Mar 2024 </p>
 
 <hr>
