@@ -12,4 +12,4 @@
 
 <hr>
 
-<B> Skills: </B> <h2> HTML · Bootstrap · Progressive Web Applications (PWAs) · Postman API · RestAPI · JSON · GitHub · Netlify </h2>
+<B> Skills: </B> <h4> HTML · Bootstrap · Progressive Web Applications (PWAs) · Postman API · RestAPI · JSON · GitHub · Netlify </h4>
